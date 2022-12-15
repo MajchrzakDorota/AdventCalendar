@@ -3,8 +3,7 @@
 
 using AdventCalendar;
 
+//CalorieCounting.CalloriesForElfs();
 
-
-
-
-CalorieCounting.CalloriesForElfs();
+//RockPaperScissors.CalculateTotalScore();
+RockPaperScissors.CalculateScoreWithInstructions();
