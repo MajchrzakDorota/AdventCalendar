@@ -6,4 +6,8 @@ using AdventCalendar;
 //CalorieCounting.CalloriesForElfs();
 
 //RockPaperScissors.CalculateTotalScore();
-RockPaperScissors.CalculateScoreWithInstructions();
+//RockPaperScissors.CalculateScoreWithInstructions();
+
+//RucksackReorganization.PrioritiesOfItemsInRucksacksCalculate();
+
+RucksackReorganization.PrioritiesOfGroupsCalculate();
