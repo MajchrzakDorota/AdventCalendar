@@ -10,4 +10,11 @@ using AdventCalendar;
 
 //RucksackReorganization.PrioritiesOfItemsInRucksacksCalculate();
 
-RucksackReorganization.PrioritiesOfGroupsCalculate();
+//RucksackReorganization.PrioritiesOfGroupsCalculate();
+
+//CampCleanup.CalculateFullyContainedRanges();
+
+//CampCleanup.CalculateOverlapedRanges();
+
+SupplyStacks.GetCratesFromStacks();
+
