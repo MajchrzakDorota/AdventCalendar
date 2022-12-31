@@ -16,5 +16,7 @@ using AdventCalendar;
 
 //CampCleanup.CalculateOverlapedRanges();
 
-SupplyStacks.GetCratesFromStacks();
+//SupplyStacks.GetCratesFromStacks();
+
+TuningTrouble.DetectMarker();
 
